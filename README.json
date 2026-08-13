@@ -1,0 +1,1379 @@
+{
+  "items": [
+    {
+      "description": "Tools that generate test cases from code, requirements, or user behavior using AI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qodo-Cover",
+          "description": "🆓 - AI-powered tool for automated test generation and code coverage enhancement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-05T12:27:16Z",
+            "owner": "qodo-ai",
+            "repo": "qodo-cover",
+            "stars": 5604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pynguin",
+          "description": "🆓 - Automated unit test generation for Python via evolutionary algorithms, from Saarland University.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T14:56:46Z",
+            "owner": "se2p",
+            "repo": "pynguin",
+            "stars": 1384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvoSuite",
+          "description": "🆓 - Generates JUnit tests using evolutionary and genetic search-based algorithms for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-14T19:44:27Z",
+            "owner": "EvoSuite",
+            "repo": "evosuite",
+            "stars": 916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvoMaster",
+          "description": "🆓 - First open source AI tool that automatically generates test cases via evolutionary algorithms for REST, GraphQL, and RPC APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T15:08:55Z",
+            "owner": "WebFuzzing",
+            "repo": "EvoMaster",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Copilot",
+          "description": "💰 - AI pair programmer that generates test code in Playwright, Cypress, Selenium across editors.",
+          "children": []
+        }
+      ],
+      "title": "Test Generation"
+    },
+    {
+      "description": "Tools and servers that use the Model Context Protocol to give AI agents browser control and testing capabilities.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chrome DevTools MCP",
+          "description": "🆓 - Official MCP server from the Chrome DevTools team, with 26 tools for browser automation, debugging, and performance analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:24:51Z",
+            "owner": "ChromeDevTools",
+            "repo": "chrome-devtools-mcp",
+            "stars": 49100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright MCP",
+          "description": "🆓 - Official Playwright MCP server giving AI agents full browser control through structured accessibility snapshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:16:20Z",
+            "owner": "microsoft",
+            "repo": "playwright-mcp",
+            "stars": 36091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright CLI",
+          "description": "🆓 - Token-efficient CLI for coding agents like Claude Code and GitHub Copilot, with installable skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T18:39:25Z",
+            "owner": "microsoft",
+            "repo": "playwright-cli",
+            "stars": 12497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowserTools MCP",
+          "description": "🆓 - Browser monitoring and console log access for AI agents via Chrome extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:48:04Z",
+            "owner": "AgentDeskAI",
+            "repo": "browser-tools-mcp",
+            "stars": 7291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browser MCP",
+          "description": "🆓 - Popular MCP server that automates the user's own local browser, preserving logged-in sessions and avoiding bot detection. Note: limited maintenance activity since mid-2025 but widely used (6.5k+ stars).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-24T21:49:44Z",
+            "owner": "BrowserMCP",
+            "repo": "mcp",
+            "stars": 6962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExecuteAutomation Playwright MCP",
+          "description": "🆓 - Community Playwright MCP server with API testing support and 143 device emulation profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T04:28:38Z",
+            "owner": "executeautomation",
+            "repo": "mcp-playwright",
+            "stars": 5633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puppeteer MCP",
+          "description": "🆓 - Reference MCP server for Puppeteer-based browser automation from the official MCP servers repo.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-28T17:57:12Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers-archived",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podium MCP",
+          "description": "🆓 - MCP server purpose-built for mobile app testing on Android/iOS simulators using Maestro, with deep Redux state inspection and CI pipeline integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T16:04:55Z",
+            "owner": "hoainho",
+            "repo": "podium-mcp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prufa-mcp",
+          "description": "🆓💰 - Open-source (Apache-2.0) MCP server connected to Prufa's hosted audit backend; an AI agent runs a QA audit of a web app (analytics, broken flows, security headers, accessibility) and gets back machine-verified findings. First audit is free; further audits and features require a paid plan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T20:05:21Z",
+            "owner": "prufa-dev",
+            "repo": "prufa-mcp",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "MCP-Based Testing"
+    },
+    {
+      "description": "Tools that automatically repair broken test locators and adapt to UI changes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeceptJS",
+          "description": "🆓 - End-to-end testing framework with built-in AI heal plugin that uses OpenAI, Anthropic, or local models to repair failing steps and propose locator fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:22:07Z",
+            "owner": "codeceptjs",
+            "repo": "CodeceptJS",
+            "stars": 4240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Healenium",
+          "description": "🆓 - Self-healing library for Selenium, Appium, and Playwright. Replaces broken selectors at runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-31T13:44:19Z",
+            "owner": "healenium",
+            "repo": "healenium",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "Self-Healing Test Frameworks"
+    },
+    {
+      "description": "End-to-end testing platforms with AI at the core.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TestZeus Hercules",
+          "description": "🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T09:37:17Z",
+            "owner": "test-zeus-ai",
+            "repo": "testzeus-hercules",
+            "stars": 1113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-qa",
+          "description": "🆓 - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 544
+          }
+        }
+      ],
+      "title": "AI-Powered E2E Platforms"
+    },
+    {
+      "description": "Visual regression and UI verification powered by AI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BackstopJS",
+          "description": "🆓 - Visual regression testing for responsive web UIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-07T22:39:52Z",
+            "owner": "garris",
+            "repo": "BackstopJS",
+            "stars": 7169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixelmatch",
+          "description": "🆓 - Pixel-level image comparison library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T08:13:13Z",
+            "owner": "mapbox",
+            "repo": "pixelmatch",
+            "stars": 6912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loki",
+          "description": "🆓 - Visual regression testing for Storybook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-12T05:41:37Z",
+            "owner": "oblador",
+            "repo": "loki",
+            "stars": 1909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lost Pixel",
+          "description": "🆓💰 - Open source visual regression testing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-22T17:12:49Z",
+            "owner": "lost-pixel",
+            "repo": "lost-pixel",
+            "stars": 1684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reg-Suit",
+          "description": "🆓 - Visual regression testing workflow with publish/notify integrations for CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:14:00Z",
+            "owner": "reg-viz",
+            "repo": "reg-suit",
+            "stars": 1288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argos",
+          "description": "🆓💰 - Open source visual testing for engineering teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:11:25Z",
+            "owner": "argos-ci",
+            "repo": "argos",
+            "stars": 611
+          }
+        }
+      ],
+      "title": "Visual AI Testing"
+    },
+    {
+      "description": "Write tests using plain English (or other natural languages).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Midscene.js",
+          "description": "🆓 - AI-driven UI automation with natural language commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:03:39Z",
+            "owner": "web-infra-dev",
+            "repo": "midscene",
+            "stars": 14565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shortest",
+          "description": "🆓 - QA via natural language AI tests, built on Playwright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T15:23:13Z",
+            "owner": "antiwork",
+            "repo": "shortest",
+            "stars": 5665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passmark",
+          "description": "🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T08:11:01Z",
+            "owner": "bug0inc",
+            "repo": "passmark",
+            "stars": 1248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magnitude",
+          "description": "🆓 - AI-native, vision-first testing framework that lets you write E2E tests in plain language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:15:18Z",
+            "owner": "magnitudedev",
+            "repo": "magnitude",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto Playwright",
+          "description": "🆓 - Run Playwright tests with AI through plain text prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-08T15:52:38Z",
+            "owner": "lucgagan",
+            "repo": "auto-playwright",
+            "stars": 844
+          }
+        }
+      ],
+      "title": "Natural Language Test Authoring"
+    },
+    {
+      "description": "Use LLMs to evaluate test outputs, assertions, and quality.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Langfuse",
+          "description": "🆓💰 - Open source LLM observability, tracing, and evaluation platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:04:15Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 33053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptfoo",
+          "description": "🆓💰 - Test framework with LLM-as-judge for prompts, models, and RAG pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:06:57Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opik",
+          "description": "🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:46:29Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 21356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Evals",
+          "description": "🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T15:29:57Z",
+            "owner": "openai",
+            "repo": "evals",
+            "stars": 19161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepEval",
+          "description": "🆓💰 - Pytest-like LLM evaluation framework with built-in judge metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:53:41Z",
+            "owner": "confident-ai",
+            "repo": "deepeval",
+            "stars": 17577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ragas",
+          "description": "🆓 - Evaluation framework for RAG pipelines using LLM judges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T07:47:19Z",
+            "owner": "vibrantlabsai",
+            "repo": "ragas",
+            "stars": 15302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lm-evaluation-harness",
+          "description": "🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:24:39Z",
+            "owner": "EleutherAI",
+            "repo": "lm-evaluation-harness",
+            "stars": 13618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arize Phoenix",
+          "description": "🆓 - Open-source LLM observability and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:53:56Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evidently",
+          "description": "🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-05T16:29:57Z",
+            "owner": "evidentlyai",
+            "repo": "evidently",
+            "stars": 7804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helicone",
+          "description": "🆓💰 - Open source LLM observability and prompt evaluation platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T01:10:06Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TruLens",
+          "description": "🆓 - Evaluation framework for LLM apps with feedback functions and tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:02:46Z",
+            "owner": "truera",
+            "repo": "trulens",
+            "stars": 3508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangWatch",
+          "description": "🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:11:42Z",
+            "owner": "langwatch",
+            "repo": "langwatch",
+            "stars": 3487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inspect AI",
+          "description": "🆓 - LLM evaluation framework from the UK AI Safety Institute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:16:12Z",
+            "owner": "UKGovernmentBEIS",
+            "repo": "inspect_ai",
+            "stars": 2536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weights & Biases Weave",
+          "description": "🆓💰 - Weights & Biases toolkit for tracing, debugging, and evaluating generative AI applications with built-in LLM-as-judge metrics and dataset management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:11:48Z",
+            "owner": "wandb",
+            "repo": "weave",
+            "stars": 1116
+          }
+        }
+      ],
+      "title": "LLM-as-Judge Evaluation"
+    },
+    {
+      "description": "AI for failure analysis, flaky test detection, and reporting.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReportPortal",
+          "description": "🆓💰 - Open source results management with ML-based failure clustering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T15:15:16Z",
+            "owner": "reportportal",
+            "repo": "reportportal",
+            "stars": 2018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agenttrace",
+          "description": "🆓 - Local-first TUI and CLI for evaluating AI coding agent sessions with cost, token, latency, and failure regression gates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:40:54Z",
+            "owner": "luoyuctl",
+            "repo": "agenttrace",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flaky-test-detector",
+          "description": "🆓 - AI agent skill that detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-07-25T13:06:24Z",
+            "owner": "sametcelikbicak",
+            "repo": "flaky-test-detector",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Test Analytics and Triage"
+    },
+    {
+      "description": "Tools that use AI to fill coverage gaps and prioritize testing efforts.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stryker Mutator",
+          "description": "🆓 - Mutation testing framework that pairs well with AI test generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:14:10Z",
+            "owner": "stryker-mutator",
+            "repo": "stryker-js",
+            "stars": 3008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mutahunter",
+          "description": "🆓 - LLM-based mutation testing for stronger test suites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T15:46:03Z",
+            "owner": "codeintegrity-ai",
+            "repo": "mutahunter",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coverage-guard",
+          "description": "🆓 - AI agent skill that enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-07-25T13:06:23Z",
+            "owner": "sametcelikbicak",
+            "repo": "coverage-guard",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Code Coverage with AI"
+    },
+    {
+      "description": "Tools that use AI to generate realistic test data, fixtures, and edge cases.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Faker.js",
+          "description": "🆓 - Standard fake data library, often paired with AI for context-aware data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:53:30Z",
+            "owner": "faker-js",
+            "repo": "faker",
+            "stars": 15448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datafaker",
+          "description": "🆓 - Java/Kotlin port of Faker for realistic fake data generation in JVM-based test suites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T16:40:22Z",
+            "owner": "datafaker-net",
+            "repo": "datafaker",
+            "stars": 1791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snowfakery",
+          "description": "🆓 - Relational synthetic data generator from Salesforce, useful for complex schema-aware test fixtures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T01:12:57Z",
+            "owner": "SFDO-Tooling",
+            "repo": "Snowfakery",
+            "stars": 157
+          }
+        }
+      ],
+      "title": "AI Test Data Generation"
+    },
+    {
+      "description": "Tools for mocking external services, LLM APIs, and dependencies in AI testing pipelines.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MSW (Mock Service Worker)",
+          "description": "🆓 - API mocking library for browser and Node.js, ideal for frontend AI testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T08:54:35Z",
+            "owner": "mswjs",
+            "repo": "msw",
+            "stars": 18142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mockoon",
+          "description": "🆓 - GUI-based open source API mocking tool, easy to set up.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T06:12:59Z",
+            "owner": "mockoon",
+            "repo": "mockoon",
+            "stars": 8356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WireMock",
+          "description": "🆓💰 - Industry standard HTTP mocking with 7.1k stars and a native MCP server in the cloud version for AI coding assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T17:16:46Z",
+            "owner": "wiremock",
+            "repo": "wiremock",
+            "stars": 7334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoverfly",
+          "description": "🆓 - Lightweight service virtualization with proxy-based recording and replay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T21:18:18Z",
+            "owner": "SpectoLabs",
+            "repo": "hoverfly",
+            "stars": 2509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mountebank",
+          "description": "🆓 - Mature open source service virtualization for HTTP, HTTPS, TCP, and SMTP protocols. Supports stubbing, mock verification, and record-playback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:59:04Z",
+            "owner": "mountebank-testing",
+            "repo": "mountebank",
+            "stars": 2103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pact",
+          "description": "🆓 - Contract testing framework for microservices and API consumers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-11T23:19:51Z",
+            "owner": "pact-foundation",
+            "repo": "pact-specification",
+            "stars": 317
+          }
+        }
+      ],
+      "title": "Mock and Service Virtualization"
+    },
+    {
+      "description": "AI features for API testing, schema generation, and contract validation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keploy",
+          "description": "🆓 - Generates API tests and mocks from real traffic, with AI assertion generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:47:46Z",
+            "owner": "keploy",
+            "repo": "keploy",
+            "stars": 18396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stepci",
+          "description": "🆓💰 - API testing framework with AI-suggested assertions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-03T09:44:52Z",
+            "owner": "stepci",
+            "repo": "stepci",
+            "stars": 1867
+          }
+        }
+      ],
+      "title": "API Testing with AI"
+    },
+    {
+      "description": "Tools to test LLM applications themselves (security, robustness, hallucination).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Garak",
+          "description": "🆓 - LLM vulnerability scanner from NVIDIA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:23:44Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 8792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guardrails AI",
+          "description": "🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:39:14Z",
+            "owner": "guardrails-ai",
+            "repo": "guardrails",
+            "stars": 7281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeMo Guardrails",
+          "description": "🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:40:57Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 6937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giskard",
+          "description": "🆓💰 - Testing framework for LLMs and ML models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:44:13Z",
+            "owner": "Giskard-AI",
+            "repo": "giskard-oss",
+            "stars": 5748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Guard",
+          "description": "🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:58:40Z",
+            "owner": "protectai",
+            "repo": "llm-guard",
+            "stars": 3202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepTeam",
+          "description": "🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:15:34Z",
+            "owner": "confident-ai",
+            "repo": "deepteam",
+            "stars": 2443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMFuzzer",
+          "description": "🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-12T07:22:56Z",
+            "owner": "mnns",
+            "repo": "LLMFuzzer",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRIT",
+          "description": "🆓 - Microsoft's Python Risk Identification Tool for generative AI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-25T01:18:52Z",
+            "owner": "Azure",
+            "repo": "PyRIT",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-security-scanner",
+          "description": "🆓 - Red-team toolkit with OWASP LLM Top 10 alignment and Turkish payload library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-02T11:05:07Z",
+            "owner": "tugkanboz",
+            "repo": "llm-security-scanner",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "LLM and AI System Testing"
+    },
+    {
+      "description": "Browser automation libraries designed for or commonly used by AI agents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Browser Use",
+          "description": "🆓 - Make websites accessible to AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:33:59Z",
+            "owner": "browser-use",
+            "repo": "browser-use",
+            "stars": 109111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightpanda",
+          "description": "🆓 - Headless browser written in Zig, optimized for AI agents and scraping workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-13T15:57:48Z",
+            "owner": "lightpanda-io",
+            "repo": "browser",
+            "stars": 33873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stagehand",
+          "description": "🆓 - AI browser automation with predictable yet flexible APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:39:27Z",
+            "owner": "browserbase",
+            "repo": "stagehand",
+            "stars": 23931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skyvern",
+          "description": "🆓💰 - Automate browser-based workflows using LLMs and computer vision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:49:03Z",
+            "owner": "Skyvern-AI",
+            "repo": "skyvern",
+            "stars": 22744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steel Browser",
+          "description": "🆓 - Open-source browser API for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T23:12:01Z",
+            "owner": "steel-dev",
+            "repo": "steel-browser",
+            "stars": 7476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patchright",
+          "description": "🆓 - Patched Playwright for stealth automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T18:38:00Z",
+            "owner": "Kaliiiiiiiiii-Vinyzu",
+            "repo": "patchright",
+            "stars": 4082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentQL",
+          "description": "🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T16:46:28Z",
+            "owner": "tinyfish-io",
+            "repo": "agentql",
+            "stars": 1446
+          }
+        }
+      ],
+      "title": "Browser Automation for AI Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SWE-bench",
+          "description": "Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:11:44Z",
+            "owner": "SWE-bench",
+            "repo": "SWE-bench",
+            "stars": 5632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentBench",
+          "description": "🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HumanEval",
+          "description": "Evaluating large language models trained on code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-17T18:22:17Z",
+            "owner": "openai",
+            "repo": "human-eval",
+            "stars": 3334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSWorld",
+          "description": "🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:12:29Z",
+            "owner": "xlang-ai",
+            "repo": "OSWorld",
+            "stars": 3080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HELM",
+          "description": "🆓 - Stanford CRFM's open-source Python framework for holistic, reproducible, and transparent evaluation of LLMs and multimodal models across dozens of scenarios covering accuracy, robustness, efficiency, bias, and safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T01:23:17Z",
+            "owner": "stanford-crfm",
+            "repo": "helm",
+            "stars": 2877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebArena",
+          "description": "Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T21:16:00Z",
+            "owner": "web-arena-x",
+            "repo": "webarena",
+            "stars": 1577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tau-bench",
+          "description": "Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T17:36:06Z",
+            "owner": "sierra-research",
+            "repo": "tau-bench",
+            "stars": 1378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StructEval",
+          "description": "🆓 - Benchmark for structured-output generation and cross-format conversion across text and renderable formats, with syntax, structural, and visual-fidelity checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T23:44:22Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "StructEval",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BenchClaw",
+          "description": "🆓 - Multi-dimension AI benchmark with 17-judge evaluation tribunal for scientific paper generation. Evaluates IMRaD structure, citation quality, methodological rigor, and reproducibility across 10 dimensions with uncertainty quantification and P2P verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-05T10:11:30Z",
+            "owner": "Agnuxo1",
+            "repo": "benchclaw",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Benchmarks and Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-test-automation",
+          "description": "General test automation across languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-28T16:02:39Z",
+            "owner": "atinfo",
+            "repo": "awesome-test-automation",
+            "stars": 7129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-llm-security",
+          "description": "LLM security tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-20T01:27:47Z",
+            "owner": "corca-ai",
+            "repo": "awesome-llm-security",
+            "stars": 1679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mutation-testing",
+          "description": "Mutation testing resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T10:39:32Z",
+            "owner": "theofidry",
+            "repo": "awesome-mutation-testing",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-testing-tools",
+          "description": "General testing tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-06-19T11:54:11Z",
+            "owner": "ZoranPandovski",
+            "repo": "awesome-testing-tools",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-agent-testing",
+          "description": "Testing AI agents themselves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-28T21:56:28Z",
+            "owner": "chaosync-org",
+            "repo": "awesome-ai-agent-testing",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-pentest",
+          "description": "AI-assisted penetration testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-20T12:46:12Z",
+            "owner": "insidetrust",
+            "repo": "awesome-ai-pentest",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "Contributions are welcome. Please read the contribution guidelines before opening a pull request.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:16:58.592Z",
+    "original_repository": "tugkanboz/awesome-ai-testing",
+    "original_repository_sha": "1e7cb245e088f9da9224a788f4b9e8c76327585e",
+    "enhanced_repository": "enhansome/enhansome-ai-testing",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI Testing with stars"
+  }
+}
