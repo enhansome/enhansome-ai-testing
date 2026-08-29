@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+            "homepage": "https://qodo.ai/",
             "id": 802434683,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-05T12:27:16Z",
+            "open_issues": 37,
             "owner": "qodo-ai",
             "repo": "qodo-cover",
-            "stars": 5627
+            "stars": 5627,
+            "topics": [
+              "agents",
+              "ai",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -26,12 +36,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The PYthoN General UnIt Test geNerator is a test-generation tool for Python",
+            "homepage": "https://www.pynguin.eu",
             "id": 282944472,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:59:55Z",
+            "open_issues": 8,
             "owner": "se2p",
             "repo": "pynguin",
-            "stars": 1384
+            "stars": 1384,
+            "topics": [
+              "python",
+              "search-based-software-testing",
+              "test-generation",
+              "test-generator",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EvoSuite - automated generation of JUnit test suites for Java classes",
+            "homepage": "http://www.evosuite.org",
             "id": 42201162,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2025-02-14T19:44:27Z",
+            "open_issues": 165,
             "owner": "EvoSuite",
             "repo": "evosuite",
-            "stars": 920
+            "stars": 920,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -58,12 +84,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).",
+            "homepage": null,
             "id": 92385933,
             "language": "Kotlin",
-            "last_commit": "2026-08-29T01:15:41Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-29T03:23:22Z",
+            "open_issues": 52,
             "owner": "WebFuzzing",
             "repo": "EvoMaster",
-            "stars": 778
+            "stars": 778,
+            "topics": [
+              "api-rest",
+              "api-testing",
+              "evolutionary-algorithms",
+              "fuzzer",
+              "fuzzing",
+              "graphql",
+              "grpc",
+              "java",
+              "kotlin",
+              "rest",
+              "rpc-api",
+              "search-based-software-testing",
+              "test-case-generation",
+              "testing",
+              "thrift"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -80,12 +127,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome DevTools for coding agents",
+            "homepage": "https://npmjs.org/package/chrome-devtools-mcp",
             "id": 1054793726,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:24:25Z",
+            "open_issues": 94,
             "owner": "ChromeDevTools",
             "repo": "chrome-devtools-mcp",
-            "stars": 49980
+            "stars": 50005,
+            "topics": [
+              "browser",
+              "chrome",
+              "chrome-devtools",
+              "debugging",
+              "devtools",
+              "mcp",
+              "mcp-server",
+              "puppeteer"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -96,12 +157,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright MCP server",
+            "homepage": "https://www.npmjs.com/package/@playwright/mcp",
             "id": 952688112,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:44:41Z",
+            "open_issues": 4,
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36587
+            "stars": 36592,
+            "topics": [
+              "mcp",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -112,12 +181,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
+            "homepage": "https://playwright.dev",
             "id": 273562379,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T23:18:11Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "playwright-cli",
-            "stars": 12930
+            "stars": 12934,
+            "topics": [
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -128,12 +204,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
+            "homepage": "https://agentdesk.ai/",
             "id": 930217913,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T16:48:04Z",
+            "open_issues": 1,
             "owner": "AgentDeskAI",
             "repo": "browser-tools-mcp",
-            "stars": 7302
+            "stars": 7303,
+            "topics": [
+              "ai",
+              "anthropic",
+              "cursor",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -144,12 +231,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+            "homepage": "https://browsermcp.io",
             "id": 956283541,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-24T21:49:44Z",
+            "open_issues": 148,
             "owner": "BrowserMCP",
             "repo": "mcp",
-            "stars": 7030
+            "stars": 7030,
+            "topics": [
+              "browser-automation",
+              "browser-extension",
+              "claude",
+              "cursor",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -160,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌",
+            "homepage": "https://executeautomation.github.io/mcp-playwright/",
             "id": 898077246,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-13T04:28:38Z",
+            "open_issues": 35,
             "owner": "executeautomation",
             "repo": "mcp-playwright",
-            "stars": 5636
+            "stars": 5636,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -176,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reference MCP servers that are no longer maintained",
+            "homepage": null,
             "id": 992061421,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-28T17:57:12Z",
+            "open_issues": 0,
             "owner": "modelcontextprotocol",
             "repo": "servers-archived",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -192,12 +301,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One MCP server, 51 tools for AI agents on mobile + canvas UIs: iOS & Android automation, Maestro E2E, evidenced assertions, React Native/Metro debugging — plus a no-vision canvas/WebGL brain (Pixi/Konva/Fabric/Phaser/Three/Babylon) that drives game UIs like DOM elements, ~5x cheaper than screenshot loops.",
+            "homepage": null,
             "id": 1261326633,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T16:04:55Z",
+            "open_issues": 9,
             "owner": "hoainho",
             "repo": "podium-mcp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "devtools",
+              "e2e-testing",
+              "ios-simulator",
+              "maestro",
+              "mcp-server",
+              "metro",
+              "mobile-automation",
+              "mobile-testing",
+              "podium",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -208,12 +333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The QA agent for your vibe-coded app. Apache-2.0 MCP server.",
+            "homepage": null,
             "id": 1270614138,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-01T20:05:21Z",
+            "open_issues": 0,
             "owner": "prufa-dev",
             "repo": "prufa-mcp",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -230,12 +360,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharged End 2 End Testing Framework for NodeJS",
+            "homepage": "http://codecept.io",
             "id": 46641250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T12:24:15Z",
+            "open_issues": 220,
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4242
+            "stars": 4243,
+            "topics": [
+              "acceptance-testing",
+              "bdd",
+              "bdd-framework",
+              "codeceptjs",
+              "e2e-tests",
+              "end-to-end-testing",
+              "graphql-testing",
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "pageobject",
+              "playwright",
+              "selenium",
+              "selenium-webdriver",
+              "testing",
+              "webdriver",
+              "webdriverio"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -246,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-healing library for Selenium Web-based tests",
+            "homepage": "https://healenium.io/",
             "id": 414607703,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-31T13:44:19Z",
+            "open_issues": 49,
             "owner": "healenium",
             "repo": "healenium",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -262,12 +420,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optics Framework is a powerful, extensible no code test automation framework designed for vision powered, data-driven testing and production app synthetic monitoring.",
+            "homepage": "https://mozarkai.github.io/optics-framework/",
             "id": 957803471,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:06:21Z",
+            "open_issues": 61,
             "owner": "mozarkai",
             "repo": "optics-framework",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "app-testing",
+              "browser-testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -284,12 +450,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡",
+            "homepage": "https://testzeus.com/hercules",
             "id": 888701643,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-04T09:37:17Z",
+            "open_issues": 37,
             "owner": "test-zeus-ai",
             "repo": "testzeus-hercules",
-            "stars": 1134
+            "stars": 1134,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "autogen",
+              "automation",
+              "browser",
+              "end-to-end-testing",
+              "hercules",
+              "large-action-model",
+              "playwright",
+              "qa-automation",
+              "rpa",
+              "software-testing",
+              "test-automation",
+              "testing",
+              "testing-tools",
+              "testzeus"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -300,12 +490,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
             "id": 1232322871,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 904
+            "stars": 913,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -322,12 +538,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch CSS curve balls.",
+            "homepage": "http://backstopjs.org",
             "id": 25268795,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-07T22:39:52Z",
+            "open_issues": 578,
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7178
+            "stars": 7178,
+            "topics": [
+              "backstopjs",
+              "chrome-headless",
+              "javascript",
+              "screen-capture",
+              "visual-regression-tests"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -338,12 +565,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The smallest, simplest and fastest JavaScript pixel-level image comparison library",
+            "homepage": null,
             "id": 44182157,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-07-07T08:13:13Z",
+            "open_issues": 15,
             "owner": "mapbox",
             "repo": "pixelmatch",
-            "stars": 6934
+            "stars": 6934,
+            "topics": [
+              "diff",
+              "image-comparison",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -354,12 +590,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👁 Visual Regression Testing for Storybook",
+            "homepage": "https://loki.js.org/",
             "id": 96754761,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-12T05:41:37Z",
+            "open_issues": 140,
             "owner": "oblador",
             "repo": "loki",
-            "stars": 1908
+            "stars": 1908,
+            "topics": [
+              "android",
+              "ios",
+              "react",
+              "react-native",
+              "react-storybook",
+              "storybook",
+              "testing",
+              "visual-regression",
+              "visual-testing",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -370,12 +622,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source alternative to Percy, Chromatic, Applitools.",
+            "homepage": "https://lost-pixel.com/",
             "id": 440311533,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-22T17:12:49Z",
+            "open_issues": 67,
             "owner": "lost-pixel",
             "repo": "lost-pixel",
-            "stars": 1683
+            "stars": 1683,
+            "topics": [
+              "cd",
+              "ci",
+              "developer-tools",
+              "development-tools",
+              "github-actions",
+              "histoire",
+              "ladle",
+              "platform",
+              "quality-assurance",
+              "saas",
+              "storybook",
+              "test-automation",
+              "testing-tools",
+              "tools",
+              "typescript",
+              "visual-regression-testing",
+              "visual-regressions",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -386,12 +662,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":recycle: Visual Regression Testing tool",
+            "homepage": "https://reg-viz.github.io/reg-suit",
             "id": 95481549,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:17:28Z",
+            "open_issues": 71,
             "owner": "reg-viz",
             "repo": "reg-suit",
-            "stars": 1287
+            "stars": 1287,
+            "topics": [
+              "automation-tests",
+              "nodejs",
+              "reg-suit",
+              "regression-testing",
+              "visual-tests"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -402,12 +689,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Argos detects unintended visual changes in your UI, helping teams maintain high product quality as they ship faster.",
+            "homepage": "https://argos-ci.com",
             "id": 76593355,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:57:44Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T05:03:39Z",
+            "open_issues": 6,
             "owner": "argos-ci",
             "repo": "argos",
-            "stars": 616
+            "stars": 616,
+            "topics": [
+              "testing",
+              "testing-tools",
+              "visual-testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -424,12 +720,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI Agent for E2E Testing",
+            "homepage": "https://midscenejs.com",
             "id": 832452447,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:26:26Z",
+            "open_issues": 77,
             "owner": "web-infra-dev",
             "repo": "midscene",
-            "stars": 14734
+            "stars": 14735,
+            "topics": [
+              "browser-use",
+              "computer-use",
+              "e2e-testing",
+              "gpt-operator",
+              "gui-agent",
+              "javascript",
+              "phone-use",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -440,12 +750,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QA via natural language AI tests",
+            "homepage": "https://shortest.com",
             "id": 859537060,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-06T15:23:13Z",
+            "open_issues": 2,
             "owner": "antiwork",
             "repo": "shortest",
-            "stars": 5667
+            "stars": 5667,
+            "topics": [
+              "anthropic",
+              "automation",
+              "chromium",
+              "e2e-testing",
+              "e2e-tests",
+              "end-to-end-testing",
+              "javascript",
+              "nextjs",
+              "playwright",
+              "test-automation",
+              "testing",
+              "testing-framework",
+              "testing-tool"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -456,12 +785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source agent with local models built in. Fully private and offline. Works out of the box on any hardware.",
+            "homepage": "https://magnitude.dev",
             "id": 1267145484,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:38:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:53:38Z",
+            "open_issues": 13,
             "owner": "magnitudedev",
             "repo": "magnitude",
-            "stars": 1522
+            "stars": 1523,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -472,12 +806,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
+            "homepage": "https://passmark.dev",
             "id": 1195492297,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-30T08:11:01Z",
+            "open_issues": 37,
             "owner": "bug0inc",
             "repo": "passmark",
-            "stars": 1255
+            "stars": 1255,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-testing",
+              "aigateway",
+              "aisdk",
+              "browser-testing",
+              "e2e-testing",
+              "playwright",
+              "qa",
+              "qa-automation",
+              "qaautomation",
+              "regression-testing",
+              "testing",
+              "typescript",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -488,12 +843,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating Playwright steps using ChatGPT.",
+            "homepage": "https://ray.run/blog/auto-playwright",
             "id": 717161097,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-08T15:52:38Z",
+            "open_issues": 22,
             "owner": "lucgagan",
             "repo": "auto-playwright",
-            "stars": 846
+            "stars": 846,
+            "topics": [
+              "ai",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -510,12 +873,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+            "homepage": "https://langfuse.com",
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:04:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:13:21Z",
+            "open_issues": 860,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33869
+            "stars": 33872,
+            "topics": [
+              "analytics",
+              "autogen",
+              "evaluation",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "observability",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "self-hosted",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -526,12 +914,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+            "homepage": "https://promptfoo.dev",
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T01:29:47Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:53:58Z",
+            "open_issues": 540,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24650
+            "stars": 24651,
+            "topics": [
+              "ci",
+              "ci-cd",
+              "cicd",
+              "evaluation",
+              "evaluation-framework",
+              "llm",
+              "llm-eval",
+              "llm-evaluation",
+              "llm-evaluation-framework",
+              "llmops",
+              "pentesting",
+              "prompt-engineering",
+              "prompt-testing",
+              "prompts",
+              "rag",
+              "red-teaming",
+              "testing",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -542,12 +954,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+            "homepage": "https://www.comet.com/docs/opik/",
             "id": 638951438,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:16:26Z",
+            "open_issues": 213,
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21657
+            "stars": 21659,
+            "topics": [
+              "evaluation",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "langchain",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -558,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+            "homepage": null,
             "id": 592489166,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T15:29:57Z",
+            "open_issues": 324,
             "owner": "openai",
             "repo": "evals",
-            "stars": 19297
+            "stars": 19298,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -574,12 +1010,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The LLM Evaluation Framework",
+            "homepage": "https://deepeval.com",
             "id": 676829188,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:13:55Z",
+            "open_issues": 492,
             "owner": "confident-ai",
             "repo": "deepeval",
-            "stars": 17938
+            "stars": 17939,
+            "topics": [
+              "evaluation-framework",
+              "evaluation-metrics",
+              "llm-evaluation",
+              "llm-evaluation-framework",
+              "llm-evaluation-metrics",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -590,12 +1038,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge Your LLM Application Evaluations 🚀",
+            "homepage": "https://docs.ragas.io",
             "id": 637924634,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-24T07:47:19Z",
+            "open_issues": 579,
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15523
+            "stars": 15524,
+            "topics": [
+              "evaluation",
+              "llm",
+              "llmops"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -606,12 +1063,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for few-shot evaluation of language models.",
+            "homepage": "https://www.eleuther.ai",
             "id": 290909192,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:42:50Z",
+            "open_issues": 911,
             "owner": "EleutherAI",
             "repo": "lm-evaluation-harness",
-            "stars": 13823
+            "stars": 13823,
+            "topics": [
+              "evaluation-framework",
+              "language-model",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -622,12 +1088,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-29T01:38:11Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:14:39Z",
+            "open_issues": 916,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11227
+            "stars": 11229,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -638,12 +1126,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+            "homepage": "https://discord.gg/xZjKRaNp8b",
             "id": 315977578,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T16:29:57Z",
+            "open_issues": 299,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7861
+            "stars": 7861,
+            "topics": [
+              "data-drift",
+              "data-quality",
+              "data-science",
+              "data-validation",
+              "generative-ai",
+              "hacktoberfest",
+              "html-report",
+              "jupyter-notebook",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "model-monitoring",
+              "pandas-dataframe"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -654,12 +1162,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+            "homepage": "https://www.helicone.ai",
             "id": 595832198,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:04:40Z",
+            "open_issues": 155,
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6109
+            "stars": 6109,
+            "topics": [
+              "agent-monitoring",
+              "analytics",
+              "evaluation",
+              "gpt",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-cost",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -670,12 +1203,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+            "homepage": "https://www.trulens.org/",
             "id": 309504885,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:53:42Z",
+            "open_issues": 61,
             "owner": "truera",
             "repo": "trulens",
-            "stars": 3526
+            "stars": 3526,
+            "topics": [
+              "agent-evaluation",
+              "agentops",
+              "ai-agents",
+              "ai-monitoring",
+              "ai-observability",
+              "evals",
+              "explainable-ml",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "machine-learning",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -686,12 +1238,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The platform for LLM evaluations and AI agent testing",
+            "homepage": "https://langwatch.ai",
             "id": 689299900,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:35:40Z",
+            "open_issues": 819,
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 3516
+            "stars": 3516,
+            "topics": [
+              "ai",
+              "analytics",
+              "datasets",
+              "dspy",
+              "evaluation",
+              "gpt",
+              "llm",
+              "llm-ops",
+              "llmops",
+              "low-code",
+              "observability",
+              "openai",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -702,12 +1273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspect: A framework for large language model evaluations",
+            "homepage": "https://inspect.aisi.org.uk/",
             "id": 718665019,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:07:17Z",
+            "open_issues": 293,
             "owner": "UKGovernmentBEIS",
             "repo": "inspect_ai",
-            "stars": 2657
+            "stars": 2658,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -718,12 +1294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.",
+            "homepage": "https://wandb.me/weave",
             "id": 650377372,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:34:30Z",
+            "open_issues": 223,
             "owner": "wandb",
             "repo": "weave",
-            "stars": 1122
+            "stars": 1122,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -740,12 +1321,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Repository. ReportPortal starts here - see readme below.",
+            "homepage": "http://reportportal.io",
             "id": 68369622,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T12:25:16Z",
+            "open_issues": 451,
             "owner": "reportportal",
             "repo": "reportportal",
-            "stars": 2023
+            "stars": 2023,
+            "topics": [
+              "automated-testing",
+              "automation",
+              "reporting-engine",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -756,12 +1347,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度",
+            "homepage": "https://github.com/luoyuctl/agenttrace",
             "id": 1226187070,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T01:09:37Z",
+            "open_issues": 7,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "ai-agent-observability",
+              "ai-agents",
+              "ai-cost-tracking",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "cursor",
+              "gemini-cli",
+              "opencode",
+              "qwen-code",
+              "rust",
+              "rust-cli",
+              "session-history",
+              "token-usage",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -772,12 +1384,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Detect, analyze, and eliminate flaky tests across any test runner. An AI agent skill that identifies non-deterministic test failures, categorizes root causes, and applies targeted fixes.",
+            "homepage": "https://agentskill.sh/@sametcelikbicak/flaky-test-detector",
             "id": 1264954983,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T13:06:24Z",
+            "open_issues": 0,
             "owner": "sametcelikbicak",
             "repo": "flaky-test-detector",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "agent-skills",
+              "awesome",
+              "awesome-list",
+              "skill",
+              "skills",
+              "skills-sh"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -794,12 +1418,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing for JavaScript and friends",
+            "homepage": "https://stryker-mutator.io",
             "id": 51588320,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:46:59Z",
+            "open_issues": 99,
             "owner": "stryker-mutator",
             "repo": "stryker-js",
-            "stars": 3060
+            "stars": 3060,
+            "topics": [
+              "hacktoberfest",
+              "javascript",
+              "mutation-testing",
+              "stryker",
+              "test-automation",
+              "testing",
+              "testing-tools",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -810,12 +1448,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source, Language Agnostic Mutation Testing",
+            "homepage": null,
             "id": 818429323,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-17T15:46:03Z",
+            "open_issues": 2,
             "owner": "codeintegrity-ai",
             "repo": "mutahunter",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "artificial-intelligence",
+              "automated-testing",
+              "mutation-testing",
+              "software-testing",
+              "static-code-analysis",
+              "test-automation",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -826,12 +1477,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An AI agent skill that enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and other test runners. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.",
+            "homepage": "https://agentskill.sh/@sametcelikbicak/coverage-guard",
             "id": 1263794260,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T13:06:23Z",
+            "open_issues": 0,
             "owner": "sametcelikbicak",
             "repo": "coverage-guard",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "agent-skills",
+              "awesome",
+              "awesome-list",
+              "skill",
+              "skills",
+              "skills-sh"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -848,12 +1511,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate massive amounts of fake data in the browser and node.js",
+            "homepage": "https://fakerjs.dev",
             "id": 445599288,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T19:44:31Z",
+            "open_issues": 101,
             "owner": "faker-js",
             "repo": "faker",
-            "stars": 15476
+            "stars": 15476,
+            "topics": [
+              "browser",
+              "data",
+              "fake",
+              "faker",
+              "javascript",
+              "nodejs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -864,12 +1540,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!",
+            "homepage": "https://www.datafaker.net",
             "id": 442921115,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:22:11Z",
+            "open_issues": 11,
             "owner": "datafaker-net",
             "repo": "datafaker",
-            "stars": 1792
+            "stars": 1792,
+            "topics": [
+              "faker",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -880,12 +1564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for generating fake data that has relations between tables.",
+            "homepage": null,
             "id": 247177199,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-27T01:12:57Z",
+            "open_issues": 57,
             "owner": "SFDO-Tooling",
             "repo": "Snowfakery",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -902,12 +1591,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Industry standard API mocking for JavaScript.",
+            "homepage": "https://mswjs.io",
             "id": 157397583,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T08:54:35Z",
+            "open_issues": 41,
             "owner": "mswjs",
             "repo": "msw",
-            "stars": 18174
+            "stars": 18174,
+            "topics": [
+              "api",
+              "api-mocking",
+              "devtools",
+              "mock",
+              "mock-service-worker",
+              "mocking",
+              "mocking-framework",
+              "mocking-library",
+              "msw",
+              "mswjs",
+              "service-worker"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -918,12 +1624,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+            "homepage": "https://mockoon.com",
             "id": 97478419,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:55:18Z",
+            "open_issues": 49,
             "owner": "mockoon",
             "repo": "mockoon",
-            "stars": 8382
+            "stars": 8382,
+            "topics": [
+              "api",
+              "application",
+              "desktop",
+              "electron",
+              "mock",
+              "mock-api",
+              "mock-data",
+              "mock-server",
+              "mocking",
+              "mocking-server",
+              "mocking-utility",
+              "openapi",
+              "openapi3",
+              "prototyping",
+              "rest",
+              "rest-api",
+              "server",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -934,12 +1664,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for mocking HTTP services",
+            "homepage": "https://wiremock.org/",
             "id": 2544305,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:14:25Z",
+            "open_issues": 495,
             "owner": "wiremock",
             "repo": "wiremock",
-            "stars": 7351
+            "stars": 7350,
+            "topics": [
+              "apis",
+              "hacktoberfest",
+              "http",
+              "java",
+              "json",
+              "mock-server",
+              "mocking",
+              "rest",
+              "stubbing",
+              "wiremock",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -950,12 +1697,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight service virtualization/ API simulation / API mocking tool for developers and testers",
+            "homepage": "https://hoverfly.io",
             "id": 47131865,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:42:04Z",
+            "open_issues": 33,
             "owner": "SpectoLabs",
             "repo": "hoverfly",
-            "stars": 2509
+            "stars": 2509,
+            "topics": [
+              "api-mock",
+              "api-mocking",
+              "api-simulation",
+              "go",
+              "golang",
+              "hoverfly",
+              "http",
+              "https",
+              "mitm",
+              "mocking",
+              "proxy",
+              "rest-api",
+              "service-virtualization",
+              "stubbing",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -966,12 +1735,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Over the wire test doubles",
+            "homepage": null,
             "id": 13893582,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T03:15:33Z",
+            "open_issues": 103,
             "owner": "mountebank-testing",
             "repo": "mountebank",
-            "stars": 2106
+            "stars": 2106,
+            "topics": [
+              "microservices-testing",
+              "mocking",
+              "mountebank",
+              "service-virtualization",
+              "stubbing",
+              "test-automation",
+              "test-framework",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -982,12 +1765,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Describes the pact format and verification specifications",
+            "homepage": null,
             "id": 14010474,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-11T23:19:51Z",
+            "open_issues": 44,
             "owner": "pact-foundation",
             "repo": "pact-specification",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "contract-testing",
+              "pact",
+              "smartbear-supported",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1004,12 +1797,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern load testing tool, using Go and JavaScript",
+            "homepage": "https://grafana.com/oss/k6/",
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-28T23:48:13Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:01:11Z",
+            "open_issues": 799,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31349
+            "stars": 31349,
+            "topics": [
+              "es6",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "javascript",
+              "k6",
+              "load-generator",
+              "load-testing",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1026,12 +1834,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pa11y is your automated accessibility testing pal",
+            "homepage": "https://pa11y.org",
             "id": 8576730,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T14:08:33Z",
+            "open_issues": 43,
             "owner": "pa11y",
             "repo": "pa11y",
-            "stars": 4492
+            "stars": 4492,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "accessibility-testing",
+              "automated-testing",
+              "axe",
+              "html-codesniffer",
+              "javascript",
+              "pa11y",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1048,12 +1871,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+            "homepage": "https://keploy.io",
             "id": 449649393,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:45:03Z",
+            "open_issues": 716,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18435
+            "stars": 18436,
+            "topics": [
+              "agentic-ai",
+              "ai-testing-tool",
+              "api-testing",
+              "code-quality",
+              "mock",
+              "mock-data-generator",
+              "mock-framework",
+              "test-automation",
+              "test-automation-framework",
+              "test-generation",
+              "testing",
+              "testing-library",
+              "testing-tool",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1064,12 +1907,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated API Testing and Quality Assurance",
+            "homepage": "https://stepci.com",
             "id": 537500924,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-08-03T09:44:52Z",
+            "open_issues": 73,
             "owner": "stepci",
             "repo": "stepci",
-            "stars": 1868
+            "stars": 1868,
+            "topics": [
+              "actions",
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "api-testing-framework",
+              "automated-testing",
+              "ci",
+              "continuous-integration",
+              "github-actions",
+              "graphql",
+              "grpc",
+              "grpc-client",
+              "integration-testing",
+              "load-testing",
+              "qa",
+              "soap",
+              "swagger",
+              "test-automation",
+              "testing-tools",
+              "trpc"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1086,12 +1955,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the LLM vulnerability scanner",
+            "homepage": "https://discord.gg/uVch4puUCs",
             "id": 639097338,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T22:37:37Z",
+            "open_issues": 408,
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 9066
+            "stars": 9066,
+            "topics": [
+              "ai",
+              "llm-evaluation",
+              "llm-security",
+              "security-scanners",
+              "vulnerability-assessment"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1102,12 +1982,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adding guardrails to large language models.",
+            "homepage": "https://www.guardrailsai.com/docs",
             "id": 594609262,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T01:31:22Z",
+            "open_issues": 84,
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7333
+            "stars": 7333,
+            "topics": [
+              "ai",
+              "foundation-model",
+              "gpt-3",
+              "llm",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1118,12 +2009,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+            "homepage": "https://docs.nvidia.com/nemo/guardrails/latest/index.html",
             "id": 629494390,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:40:49Z",
+            "open_issues": 205,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7025
+            "stars": 7025,
+            "topics": [
+              "agents",
+              "generative-ai",
+              "guardrails",
+              "llm-safety",
+              "llm-security",
+              "llms",
+              "nvidia",
+              "python",
+              "safety"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1134,12 +2040,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+            "homepage": "https://docs.giskard.ai",
             "id": 466864356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:04:08Z",
+            "open_issues": 62,
             "owner": "Giskard-AI",
             "repo": "giskard-oss",
-            "stars": 5783
+            "stars": 5787,
+            "topics": [
+              "agent-evaluation",
+              "ai-red-team",
+              "ai-security",
+              "ai-testing",
+              "fairness-ai",
+              "llm",
+              "llm-eval",
+              "llm-evaluation",
+              "llm-security",
+              "llmops",
+              "ml-testing",
+              "ml-validation",
+              "mlops",
+              "rag-evaluation",
+              "red-team-tools",
+              "responsible-ai",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1150,12 +2079,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Security Toolkit for LLM Interactions",
+            "homepage": "https://protectai.github.io/llm-guard/",
             "id": 671629770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T23:58:40Z",
+            "open_issues": 40,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205
+            "stars": 3205,
+            "topics": [
+              "adversarial-machine-learning",
+              "chatgpt",
+              "large-language-models",
+              "llm",
+              "llm-security",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "security-tools",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1166,12 +2111,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepTeam is a framework to red team LLMs and AI agents.",
+            "homepage": "https://trydeepteam.com",
             "id": 943088234,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T03:45:15Z",
+            "open_issues": 61,
             "owner": "confident-ai",
             "repo": "deepteam",
-            "stars": 2629
+            "stars": 2632,
+            "topics": [
+              "llm-guardrails",
+              "llm-red-teaming",
+              "llm-safety",
+              "llm-seecurity",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1182,12 +2138,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 LLMFuzzer - Fuzzing Framework for Large Language Models 🧠 LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs. 🚀💥",
+            "homepage": null,
             "id": 643275640,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-12T07:22:56Z",
+            "open_issues": 3,
             "owner": "mnns",
             "repo": "LLMFuzzer",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "ai",
+              "cybersecurity",
+              "llm",
+              "llmsecurity"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1198,12 +2164,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.",
+            "homepage": "https://microsoft.github.io/PyRIT",
             "id": 1191146757,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-25T01:18:52Z",
+            "open_issues": 0,
             "owner": "Azure",
             "repo": "PyRIT",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "ai-red-team",
+              "generative-ai",
+              "red-team-tools",
+              "responsible-ai"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1214,12 +2190,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source red-team toolkit for LLM applications prompt injection, jailbreak & data exfiltration scanner with OWASP LLM Top 10 alignment and first-class Turkish payload support.",
+            "homepage": null,
             "id": 1225426720,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-02T11:05:07Z",
+            "open_issues": 0,
             "owner": "tugkanboz",
             "repo": "llm-security-scanner",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai-security",
+              "jailbreak",
+              "llm-security",
+              "prompt-injection",
+              "red-team",
+              "security-scanner"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1236,12 +2224,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+            "homepage": "https://browser-use.com",
             "id": 881458615,
             "language": "Python",
-            "last_commit": "2026-08-29T00:19:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:08:30Z",
+            "open_issues": 387,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111583
+            "stars": 111598,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "browser-automation",
+              "browser-use",
+              "llm",
+              "playwright",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1252,12 +2253,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightpanda: the headless browser designed for AI and automation",
+            "homepage": "https://lightpanda.io",
             "id": 598667202,
             "language": "Zig",
-            "last_commit": "2026-08-28T23:12:53Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:32:50Z",
+            "open_issues": 103,
             "owner": "lightpanda-io",
             "repo": "browser",
-            "stars": 34300
+            "stars": 34302,
+            "topics": [
+              "browser",
+              "browser-automation",
+              "cdp",
+              "headless",
+              "lightpanda",
+              "playwright",
+              "puppeteer",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1268,12 +2283,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The SDK For Browser Agents",
+            "homepage": "https://stagehand.dev",
             "id": 776908852,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:54:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:03:37Z",
+            "open_issues": 342,
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 24091
+            "stars": 24092,
+            "topics": [
+              "agents",
+              "ai",
+              "llms",
+              "playwright",
+              "puppeteer",
+              "selenium"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1284,12 +2311,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate browser based workflows with AI",
+            "homepage": "https://www.skyvern.com",
             "id": 764723738,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-29T00:41:54Z",
+            "open_issues": 222,
             "owner": "Skyvern-AI",
             "repo": "skyvern",
-            "stars": 22875
+            "stars": 22876,
+            "topics": [
+              "ai",
+              "api",
+              "automation",
+              "browser",
+              "browser-automation",
+              "computer",
+              "gpt",
+              "llm",
+              "playwright",
+              "powerautomate",
+              "puppeteer",
+              "python",
+              "rpa",
+              "selenium",
+              "vision",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1300,12 +2349,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.",
+            "homepage": "https://steel.dev",
             "id": 882026761,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T19:41:14Z",
+            "open_issues": 68,
             "owner": "steel-dev",
             "repo": "steel-browser",
-            "stars": 7556
+            "stars": 7556,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "browser-automation",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1316,12 +2376,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Undetected version of the Playwright testing and automation library.",
+            "homepage": "https://playwright.dev/",
             "id": 715769622,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T17:20:06Z",
+            "open_issues": 4,
             "owner": "Kaliiiiiiiiii-Vinyzu",
             "repo": "patchright",
-            "stars": 4208
+            "stars": 4208,
+            "topics": [
+              "antidetect",
+              "automation",
+              "bot",
+              "bots",
+              "botting",
+              "browser",
+              "chrome",
+              "chromedriver",
+              "chromium",
+              "cloudflare",
+              "cloudflare-bypass",
+              "playwright",
+              "stealth",
+              "undetectable",
+              "undetected",
+              "web-automation",
+              "web-scraping",
+              "webautomation",
+              "webdriver",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1332,12 +2418,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations for interacting with elements and extracting data quickly, precisely, and at scale. Includes REST API, Python and JavaScript SDKs, browser debugger.",
+            "homepage": "https://agentql.com",
             "id": 760722197,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:56:45Z",
+            "open_issues": 7,
             "owner": "tinyfish-io",
             "repo": "agentql",
-            "stars": 1454
+            "stars": 1454,
+            "topics": [
+              "agent",
+              "ai",
+              "aiagent",
+              "automation",
+              "javascript",
+              "playwright",
+              "python",
+              "rpa",
+              "scraping",
+              "web",
+              "web-scraping",
+              "web-scraping-colabs",
+              "web-scraping-javascript",
+              "web-scraping-python",
+              "web-scrapping",
+              "webagent"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1354,12 +2462,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
+            "homepage": "https://www.swebench.com",
             "id": 700117650,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T23:53:40Z",
+            "open_issues": 17,
             "owner": "SWE-bench",
             "repo": "SWE-bench",
-            "stars": 5732
+            "stars": 5733,
+            "topics": [
+              "benchmark",
+              "language-model",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1370,12 +2487,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+            "homepage": null,
             "id": 671759870,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-08T17:01:05Z",
+            "open_issues": 76,
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3701
+            "stars": 3701,
+            "topics": [
+              "chatgpt",
+              "gpt-4",
+              "llm",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1386,12 +2513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
+            "homepage": null,
             "id": 383601290,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-17T18:22:17Z",
+            "open_issues": 45,
             "owner": "openai",
             "repo": "human-eval",
-            "stars": 3355
+            "stars": 3355,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1402,12 +2534,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+            "homepage": "https://os-world.github.io",
             "id": 705433049,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T09:11:07Z",
+            "open_issues": 200,
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3112
+            "stars": 3112,
+            "topics": [
+              "agent",
+              "artificial-intelligence",
+              "benchmark",
+              "cli",
+              "code-generation",
+              "gui",
+              "language-model",
+              "large-action-model",
+              "llm",
+              "multimodal",
+              "natural-language-processing",
+              "reinforcement-learning",
+              "rpa",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1418,12 +2570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+            "homepage": "https://crfm.stanford.edu/helm",
             "id": 432968463,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T01:23:17Z",
+            "open_issues": 98,
             "owner": "stanford-crfm",
             "repo": "helm",
-            "stars": 2890
+            "stars": 2890,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1434,12 +2591,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\"",
+            "homepage": "https://webarena.dev",
             "id": 670111980,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-26T21:16:00Z",
+            "open_issues": 102,
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1590
+            "stars": 1590,
+            "topics": [
+              "agent",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1450,12 +2615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and Data for Tau-Bench",
+            "homepage": null,
             "id": 811477986,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-18T17:36:06Z",
+            "open_issues": 52,
             "owner": "sierra-research",
             "repo": "tau-bench",
-            "stars": 1410
+            "stars": 1410,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1466,12 +2636,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluating LLMs' abilities to generate structural output [TMLR2025]",
+            "homepage": "https://tiger-ai-lab.github.io/StructEval/",
             "id": 911787354,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-26T23:44:22Z",
+            "open_issues": 6,
             "owner": "TIGER-AI-Lab",
             "repo": "StructEval",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "benchmark",
+              "evaluation",
+              "structure"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1482,12 +2661,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BenchClaw — Multi-dimensional AI agent evaluation with 17-judge AI Tribunal, 10 scoring dimensions, radar charts, and deception detection. Benchmark any LLM agent.",
+            "homepage": "https://www.p2pclaw.com/app/benchmark",
             "id": 1214185735,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-05T10:11:30Z",
+            "open_issues": 0,
             "owner": "Agnuxo1",
             "repo": "benchclaw",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "agent-evaluation",
+              "ai-agents",
+              "benchmark",
+              "benchmarking",
+              "evaluation",
+              "llm",
+              "mcp",
+              "nodejs",
+              "quality",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1504,12 +2699,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info",
+            "homepage": "https://testomat.io",
             "id": 29977860,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-28T16:02:39Z",
+            "open_issues": 135,
             "owner": "atinfo",
             "repo": "awesome-test-automation",
-            "stars": 7147
+            "stars": 7147,
+            "topics": [
+              "android",
+              "awesome",
+              "awesome-list",
+              "build-automation",
+              "c-sharp",
+              "framework",
+              "ios",
+              "java",
+              "javascript",
+              "kotlin",
+              "load-testing",
+              "mobile",
+              "performance-testing",
+              "php",
+              "python",
+              "ruby",
+              "software-quality",
+              "software-testing",
+              "test-automation",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1520,12 +2741,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curation of awesome tools, documents and projects about LLM Security.",
+            "homepage": null,
             "id": 662394571,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-20T01:27:47Z",
+            "open_issues": 196,
             "owner": "corca-ai",
             "repo": "awesome-llm-security",
-            "stars": 1687
+            "stars": 1687,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "llm",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1536,12 +2767,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mutation testing resources: how to make better code by introducing bugs",
+            "homepage": null,
             "id": 93941603,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-27T13:01:32Z",
+            "open_issues": 2,
             "owner": "theofidry",
             "repo": "awesome-mutation-testing",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "mutation-analysis",
+              "mutation-testing"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1552,12 +2793,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of the best software testing tools for QA, automation, accessibility, performance, API, security, and more.",
+            "homepage": "https://awesometesting.tools/",
             "id": 132815978,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-27T14:08:00Z",
+            "open_issues": 32,
             "owner": "ZoranPandovski",
             "repo": "awesome-testing-tools",
-            "stars": 369
+            "stars": 369,
+            "topics": [
+              "automated-testing",
+              "awesome",
+              "awesome-list",
+              "load-testing",
+              "mobile-testing",
+              "penetration-testing",
+              "performance-testing",
+              "qa",
+              "qatools",
+              "quality-assurance",
+              "quality-assurance-framework",
+              "quality-assurance-library",
+              "test-automation",
+              "test-framework",
+              "testing",
+              "testing-framework",
+              "testing-practices",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1568,12 +2833,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 A curated list of resources for testing AI agents - frameworks, methodologies, benchmarks, tools, and best practices for ensuring reliable, safe, and effective autonomous AI systems",
+            "homepage": null,
             "id": 992260477,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-05-28T21:56:28Z",
+            "open_issues": 17,
             "owner": "chaosync-org",
             "repo": "awesome-ai-agent-testing",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "agent-evaluation",
+              "agentic-ai",
+              "ai-agents",
+              "ai-benchmark",
+              "ai-safety",
+              "artificial-intelligence",
+              "awesome-list",
+              "benchmark",
+              "chaos",
+              "chaos-engineering",
+              "chaos-monkey",
+              "evaluation",
+              "llm",
+              "llm-evaluation",
+              "machine-learning",
+              "qa",
+              "quality-assurance",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         },
@@ -1584,12 +2874,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of open-source AI-assisted penetration testing tools, frameworks, CTF agents, and benchmarks",
+            "homepage": null,
             "id": 1162580198,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-20T12:46:12Z",
+            "open_issues": 1,
             "owner": "insidetrust",
             "repo": "awesome-ai-pentest",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:57.658Z"
         }
@@ -1598,15 +2893,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:43:57.658Z",
+    "last_updated": "2026-08-29T05:04:36.825Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
+      "homepage": null,
       "id": 1227214087,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-28T06:06:56Z",
+      "open_issues": 65,
       "owner": "tugkanboz",
       "repo": "awesome-ai-testing",
-      "stars": 80
+      "stars": 80,
+      "topics": [
+        "ai-test-automation",
+        "ai-testing",
+        "awesome",
+        "awesome-list",
+        "llm-testing",
+        "mcp-testing",
+        "qa",
+        "software-testing",
+        "test-automation",
+        "test-generation"
+      ]
     },
     "original_repository_sha": "aace396216c512355dc8266211fecdae81089b03",
     "enhanced_repository": "enhansome/enhansome-ai-testing",
