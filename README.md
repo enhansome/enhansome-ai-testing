@@ -40,10 +40,10 @@ AI is reshaping software testing. This list collects tools, platforms, and resou
 
 Tools that generate test cases from code, requirements, or user behavior using AI.
 
-* [Qodo-Cover](https://github.com/qodo-ai/qodo-cover) ⭐ 5,659 | 🐛 39 | 🌐 Python | 📅 2026-04-05 🆓 - AI-powered tool for automated test generation and code coverage enhancement.
+* [Qodo-Cover](https://github.com/qodo-ai/qodo-cover) ⭐ 5,658 | 🐛 39 | 🌐 Python | 📅 2026-04-05 🆓 - AI-powered tool for automated test generation and code coverage enhancement.
 * [Pynguin](https://github.com/se2p/pynguin) ⭐ 1,392 | 🐛 3 | 🌐 Python | 📅 2026-10-01 🆓 - Automated unit test generation for Python via evolutionary algorithms, from Saarland University.
 * [EvoSuite](https://github.com/EvoSuite/evosuite) ⭐ 921 | 🐛 165 | 🌐 Java | 📅 2025-02-14 🆓 - Generates JUnit tests using evolutionary and genetic search-based algorithms for Java.
-* [EvoMaster](https://github.com/EMResearch/EvoMaster) ⭐ 788 | 🐛 48 | 🌐 Kotlin | 📅 2026-10-01 🆓 - First open source AI tool that automatically generates test cases via evolutionary algorithms for REST, GraphQL, and RPC APIs.
+* [EvoMaster](https://github.com/EMResearch/EvoMaster) ⭐ 788 | 🐛 48 | 🌐 Kotlin | 📅 2026-10-02 🆓 - First open source AI tool that automatically generates test cases via evolutionary algorithms for REST, GraphQL, and RPC APIs.
 * [Symflower](https://symflower.com/) 💰 - Commercial tool that combines symbolic execution, static analysis, and LLMs to generate unit tests for Java, Go, and Kotlin. Free CLI available with limitations.
 * [CodiumAI / Qodo](https://www.qodo.ai/) 💰 - AI assistant generating meaningful tests from code context.
 * [Diffblue Cover](https://www.diffblue.com/) 💰 - Autonomous Java unit test writer using reinforcement learning.
@@ -55,11 +55,11 @@ Tools that generate test cases from code, requirements, or user behavior using A
 
 Tools and servers that use the Model Context Protocol to give AI agents browser control and testing capabilities.
 
-* [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 52,861 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Official MCP server from the Chrome DevTools team, with 26 tools for browser automation, debugging, and performance analysis.
-* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 37,743 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-28 🆓 - Official Playwright MCP server giving AI agents full browser control through structured accessibility snapshots.
-* [Playwright CLI](https://github.com/microsoft/playwright-cli) ⭐ 13,720 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-28 🆓 - Token-efficient CLI for coding agents like Claude Code and GitHub Copilot, with installable skills.
-* [BrowserTools MCP](https://github.com/AgentDeskAI/browser-tools-mcp) ⭐ 7,331 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-12 🆓 - Browser monitoring and console log access for AI agents via Chrome extension.
-* [Browser MCP](https://github.com/browsermcp/mcp) ⭐ 7,151 | 🐛 151 | 🌐 TypeScript | 📅 2025-04-24 🆓 - Popular MCP server that automates the user's own local browser, preserving logged-in sessions and avoiding bot detection. Note: limited maintenance activity since mid-2025 but widely used (6.5k+ stars).
+* [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 52,891 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-02 🆓 - Official MCP server from the Chrome DevTools team, with 26 tools for browser automation, debugging, and performance analysis.
+* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 37,766 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 🆓 - Official Playwright MCP server giving AI agents full browser control through structured accessibility snapshots.
+* [Playwright CLI](https://github.com/microsoft/playwright-cli) ⭐ 13,736 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-28 🆓 - Token-efficient CLI for coding agents like Claude Code and GitHub Copilot, with installable skills.
+* [BrowserTools MCP](https://github.com/AgentDeskAI/browser-tools-mcp) ⭐ 7,329 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-12 🆓 - Browser monitoring and console log access for AI agents via Chrome extension.
+* [Browser MCP](https://github.com/browsermcp/mcp) ⭐ 7,154 | 🐛 152 | 🌐 TypeScript | 📅 2025-04-24 🆓 - Popular MCP server that automates the user's own local browser, preserving logged-in sessions and avoiding bot detection. Note: limited maintenance activity since mid-2025 but widely used (6.5k+ stars).
 * [ExecuteAutomation Playwright MCP](https://github.com/executeautomation/mcp-playwright) ⭐ 5,661 | 🐛 38 | 🌐 TypeScript | 📅 2025-12-13 🆓 - Community Playwright MCP server with API testing support and 143 device emulation profiles.
 * [Puppeteer MCP](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) ⚠️ Archived 🆓 - Reference MCP server for Puppeteer-based browser automation from the official MCP servers repo.
 * [Podium MCP](https://github.com/hoainho/podium-mcp) ⭐ 4 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-30 🆓 - MCP server purpose-built for mobile app testing on Android/iOS simulators using Maestro, with deep Redux state inspection and CI pipeline integration.
@@ -70,9 +70,9 @@ Tools and servers that use the Model Context Protocol to give AI agents browser 
 
 Tools that automatically repair broken test locators and adapt to UI changes.
 
-* [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,242 | 🐛 203 | 🌐 JavaScript | 📅 2026-10-01 🆓 - End-to-end testing framework with built-in AI heal plugin that uses OpenAI, Anthropic, or local models to repair failing steps and propose locator fixes.
+* [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,242 | 🐛 204 | 🌐 JavaScript | 📅 2026-10-02 🆓 - End-to-end testing framework with built-in AI heal plugin that uses OpenAI, Anthropic, or local models to repair failing steps and propose locator fixes.
 * [Healenium](https://github.com/healenium/healenium) ⭐ 167 | 🐛 49 | 🌐 Shell | 📅 2026-03-31 🆓 - Self-healing library for Selenium, Appium, and Playwright. Replaces broken selectors at runtime.
-* [optics-framework](https://github.com/mozarkai/optics-framework) ⭐ 56 | 🐛 73 | 🌐 Python | 📅 2026-10-01 🆓 - Open-source test automation for mobile, web and Smart TV with a locator fallback ladder across XPath, text, OCR and image strategies, plus optional LLM-driven self-healing that recovers failed steps through the same keyword API.
+* [optics-framework](https://github.com/mozarkai/optics-framework) ⭐ 56 | 🐛 74 | 🌐 Python | 📅 2026-10-01 🆓 - Open-source test automation for mobile, web and Smart TV with a locator fallback ladder across XPath, text, OCR and image strategies, plus optional LLM-driven self-healing that recovers failed steps through the same keyword API.
 * [Testim](https://www.testim.io/) 💰 - Pioneer of self-healing tests with AI-driven smart locators.
 * [Functionize](https://www.functionize.com/) 💰 - AI-powered tests that adapt without selectors.
 * [TestSigma](https://testsigma.com/) 💰 - AI-driven low-code platform with self-healing across web, mobile, and API.
@@ -83,8 +83,8 @@ Tools that automatically repair broken test locators and adapt to UI changes.
 
 End-to-end testing platforms with AI at the core.
 
-* [TestZeus Hercules](https://github.com/test-zeus-ai/testzeus-hercules) ⭐ 1,173 | 🐛 45 | 🌐 Python | 📅 2026-08-04 🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.
-* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 893 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 🆓 - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
+* [TestZeus Hercules](https://github.com/test-zeus-ai/testzeus-hercules) ⭐ 1,174 | 🐛 45 | 🌐 Python | 📅 2026-08-04 🆓 - World's first open-source testing agent for UI, API, security, accessibility, and visual validations, no code required.
+* [agent-qa](https://github.com/vostride/agent-qa) ⭐ 894 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 🆓 - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 * [Mabl](https://www.mabl.com/) 💰 - Low-code platform with auto-healing and ML-based test maintenance.
 * [Meticulous](https://www.meticulous.ai/) 💰 - Records real user sessions and generates regression tests automatically.
 * [Momentic](https://momentic.ai/) 💰 - AI-native end-to-end testing platform that writes, runs, and maintains web and mobile tests automatically using natural language.
@@ -104,7 +104,7 @@ End-to-end testing platforms with AI at the core.
 
 AI-powered tools specifically for mobile app testing.
 
-* [Maestro](https://github.com/mobile-dev-inc/maestro) ⭐ 15,882 | 🐛 533 | 🌐 Kotlin | 📅 2026-10-01 🆓💰 - YAML-based mobile UI automation that reads accessibility tree, no XPath needed.
+* [Maestro](https://github.com/mobile-dev-inc/maestro) ⭐ 15,898 | 🐛 529 | 🌐 Kotlin | 📅 2026-10-02 🆓💰 - YAML-based mobile UI automation that reads accessibility tree, no XPath needed.
 * [Appium](https://appium.io/) 🆓 - Industry standard mobile automation, with AI plugins for self-healing.
 * [Sofy](https://sofy.ai/) 💰 - No-code AI mobile testing platform.
 * [Kobiton](https://kobiton.com/) 💰 - Mobile device cloud with AI-driven scriptless automation.
@@ -116,12 +116,12 @@ AI-powered tools specifically for mobile app testing.
 
 Visual regression and UI verification powered by AI.
 
-* [BackstopJS](https://github.com/garris/BackstopJS) ⭐ 7,182 | 🐛 577 | 🌐 JavaScript | 📅 2026-09-08 🆓 - Visual regression testing for responsive web UIs.
+* [BackstopJS](https://github.com/garris/BackstopJS) ⭐ 7,184 | 🐛 577 | 🌐 JavaScript | 📅 2026-09-08 🆓 - Visual regression testing for responsive web UIs.
 * [Pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,974 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-15 🆓 - Pixel-level image comparison library.
-* [Loki](https://github.com/oblador/loki) ⭐ 1,912 | 🐛 141 | 🌐 JavaScript | 📅 2024-10-12 🆓 - Visual regression testing for Storybook.
+* [Loki](https://github.com/oblador/loki) ⭐ 1,913 | 🐛 141 | 🌐 JavaScript | 📅 2024-10-12 🆓 - Visual regression testing for Storybook.
 * [Lost Pixel](https://github.com/lost-pixel/lost-pixel) ⚠️ Archived 🆓💰 - Open source visual regression testing.
-* [Reg-Suit](https://github.com/reg-viz/reg-suit) ⭐ 1,296 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Visual regression testing workflow with publish/notify integrations for CI.
-* [Argos](https://github.com/argos-ci/argos) ⭐ 636 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-01 🆓💰 - Open source visual testing for engineering teams.
+* [Reg-Suit](https://github.com/reg-viz/reg-suit) ⭐ 1,297 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Visual regression testing workflow with publish/notify integrations for CI.
+* [Argos](https://github.com/argos-ci/argos) ⭐ 636 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-02 🆓💰 - Open source visual testing for engineering teams.
 * [Applitools Eyes](https://applitools.com/) 💰 - Visual AI platform with cross-browser and cross-device verification.
 * [Percy](https://percy.io/) 💰 - Visual review and regression testing, part of BrowserStack.
 * [Chromatic](https://www.chromatic.com/) 💰 - Visual and interaction tests for Storybook.
@@ -131,11 +131,11 @@ Visual regression and UI verification powered by AI.
 
 Write tests using plain English (or other natural languages).
 
-* [Midscene.js](https://github.com/web-infra-dev/midscene) ⭐ 15,051 | 🐛 100 | 🌐 TypeScript | 📅 2026-09-30 🆓 - AI-driven UI automation with natural language commands.
-* [Magnitude](https://github.com/magnitudedev/magnitude) ⭐ 6,122 | 🐛 31 | 🌐 Rust | 📅 2026-10-01 🆓 - AI-native, vision-first testing framework that lets you write E2E tests in plain language.
+* [Midscene.js](https://github.com/web-infra-dev/midscene) ⭐ 15,063 | 🐛 100 | 🌐 TypeScript | 📅 2026-09-30 🆓 - AI-driven UI automation with natural language commands.
+* [Magnitude](https://github.com/magnitudedev/magnitude) ⭐ 6,274 | 🐛 34 | 🌐 Rust | 📅 2026-10-02 🆓 - AI-native, vision-first testing framework that lets you write E2E tests in plain language.
 * [Shortest](https://github.com/anti-work/shortest) ⭐ 5,684 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-06 🆓 - QA via natural language AI tests, built on Playwright.
-* [Passmark](https://github.com/bug0inc/passmark) ⭐ 1,275 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-25 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
-* [Auto Playwright](https://github.com/lucgagan/auto-playwright) ⭐ 848 | 🐛 22 | 🌐 TypeScript | 📅 2025-07-08 🆓 - Run Playwright tests with AI through plain text prompts.
+* [Passmark](https://github.com/bug0inc/passmark) ⭐ 1,276 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-25 🆓 - Open-source AI regression testing framework on Playwright with intelligent caching, auto-healing, and multi-model verification.
+* [Auto Playwright](https://github.com/lucgagan/auto-playwright) ⭐ 849 | 🐛 22 | 🌐 TypeScript | 📅 2025-07-08 🆓 - Run Playwright tests with AI through plain text prompts.
 * [ZeroStep](https://zerostep.com/) 💰 - Plain English test steps that compile to Playwright actions.
 * [Tusk](https://www.usetusk.ai/) 💰 - AI agent that auto-generates and runs tests for pull requests.
 
@@ -143,20 +143,20 @@ Write tests using plain English (or other natural languages).
 
 Use LLMs to evaluate test outputs, assertions, and quality.
 
-* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 35,286 | 🐛 1,004 | 🌐 TypeScript | 📅 2026-10-01 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
-* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,629 | 🐛 696 | 🌐 TypeScript | 📅 2026-10-01 🆓💰 - Test framework with LLM-as-judge for prompts, models, and RAG pipelines.
-* [Opik](https://github.com/comet-ml/opik) ⭐ 22,329 | 🐛 183 | 🌐 Python | 📅 2026-10-01 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
-* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,540 | 🐛 343 | 🌐 Python | 📅 2026-04-14 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,557 | 🐛 694 | 🌐 Python | 📅 2026-10-01 🆓💰 - Pytest-like LLM evaluation framework with built-in judge metrics.
-* [Ragas](https://github.com/explodinggradients/ragas) ⭐ 15,901 | 🐛 622 | 🌐 Python | 📅 2026-02-24 🆓 - Evaluation framework for RAG pipelines using LLM judges.
-* [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,112 | 🐛 1,096 | 🌐 Python | 📅 2026-09-14 🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.
-* [Arize Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,674 | 🐛 1,063 | 🌐 Python | 📅 2026-10-01 🆓 - Open-source LLM observability and evaluation.
-* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,956 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-29 🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.
-* [Helicone](https://github.com/Helicone/helicone) ⭐ 6,193 | 🐛 164 | 🌐 TypeScript | 📅 2026-09-16 🆓💰 - Open source LLM observability and prompt evaluation platform.
-* [LangWatch](https://github.com/langwatch/langwatch) ⭐ 4,899 | 🐛 257 | 🌐 TypeScript | 📅 2026-10-01 🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.
-* [TruLens](https://github.com/truera/trulens) ⭐ 3,582 | 🐛 101 | 🌐 Python | 📅 2026-10-01 🆓 - Evaluation framework for LLM apps with feedback functions and tracing.
-* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 2,909 | 🐛 367 | 🌐 Python | 📅 2026-10-01 🆓 - LLM evaluation framework from the UK AI Safety Institute.
-* [Weights & Biases Weave](https://github.com/wandb/weave) ⭐ 1,135 | 🐛 213 | 🌐 Python | 📅 2026-10-01 🆓💰 - Weights & Biases toolkit for tracing, debugging, and evaluating generative AI applications with built-in LLM-as-judge metrics and dataset management.
+* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 35,323 | 🐛 1,001 | 🌐 TypeScript | 📅 2026-10-02 🆓💰 - Open source LLM observability, tracing, and evaluation platform.
+* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,654 | 🐛 694 | 🌐 TypeScript | 📅 2026-10-02 🆓💰 - Test framework with LLM-as-judge for prompts, models, and RAG pipelines.
+* [Opik](https://github.com/comet-ml/opik) ⭐ 22,341 | 🐛 169 | 🌐 Python | 📅 2026-10-02 🆓💰 - Open-source LLM evaluation and observability platform with automated tracing, LLM-as-judge metrics, and pytest integration for CI pipelines.
+* [OpenAI Evals](https://github.com/openai/evals) ⭐ 19,546 | 🐛 343 | 🌐 Python | 📅 2026-04-14 🆓 - Framework for evaluating LLMs and an open-source registry of benchmarks from OpenAI. No longer actively maintained for new evals, but still widely used as a reference.
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,584 | 🐛 697 | 🌐 Python | 📅 2026-10-02 🆓💰 - Pytest-like LLM evaluation framework with built-in judge metrics.
+* [Ragas](https://github.com/explodinggradients/ragas) ⭐ 15,908 | 🐛 623 | 🌐 Python | 📅 2026-02-24 🆓 - Evaluation framework for RAG pipelines using LLM judges.
+* [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,120 | 🐛 1,105 | 🌐 Python | 📅 2026-09-14 🆓 - EleutherAI's framework for few-shot evaluation of language models, backing the Hugging Face Open LLM Leaderboard.
+* [Arize Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,685 | 🐛 1,080 | 🌐 Python | 📅 2026-10-02 🆓 - Open-source LLM observability and evaluation.
+* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,962 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-29 🆓💰 - Open-source Python library for evaluating, testing, and monitoring ML and LLM systems with 100+ built-in metrics for data quality, drift detection, and LLM output quality.
+* [Helicone](https://github.com/Helicone/helicone) ⭐ 6,194 | 🐛 164 | 🌐 TypeScript | 📅 2026-09-16 🆓💰 - Open source LLM observability and prompt evaluation platform.
+* [LangWatch](https://github.com/langwatch/langwatch) ⭐ 4,905 | 🐛 250 | 🌐 TypeScript | 📅 2026-10-02 🆓💰 - Open-source LLM evaluation and AI agent testing platform combining end-to-end scenario simulation, observability, and prompt management in a single unified loop.
+* [TruLens](https://github.com/truera/trulens) ⭐ 3,588 | 🐛 109 | 🌐 Python | 📅 2026-10-02 🆓 - Evaluation framework for LLM apps with feedback functions and tracing.
+* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) ⭐ 2,922 | 🐛 372 | 🌐 Python | 📅 2026-10-02 🆓 - LLM evaluation framework from the UK AI Safety Institute.
+* [Weights & Biases Weave](https://github.com/wandb/weave) ⭐ 1,135 | 🐛 209 | 🌐 Python | 📅 2026-10-02 🆓💰 - Weights & Biases toolkit for tracing, debugging, and evaluating generative AI applications with built-in LLM-as-judge metrics and dataset management.
 * [LangSmith](https://www.langchain.com/langsmith) 💰 - LangChain's platform for testing and monitoring LLM apps.
 * [Braintrust](https://www.braintrust.dev/) 💰 - LLM eval platform with experiments, datasets, and observability.
 * [Patronus AI](https://www.patronus.ai/) 💰 - Automated evaluation and security testing for LLMs.
@@ -166,7 +166,7 @@ Use LLMs to evaluate test outputs, assertions, and quality.
 
 AI for failure analysis, flaky test detection, and reporting.
 
-* [ReportPortal](https://github.com/reportportal/reportportal) ⭐ 2,034 | 🐛 451 | 🌐 Makefile | 📅 2026-08-20 🆓💰 - Open source results management with ML-based failure clustering.
+* [ReportPortal](https://github.com/reportportal/reportportal) ⭐ 2,034 | 🐛 450 | 🌐 Makefile | 📅 2026-08-20 🆓💰 - Open source results management with ML-based failure clustering.
 * [agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 137 | 🐛 7 | 🌐 Rust | 📅 2026-10-01 🆓 - Local-first TUI and CLI for evaluating AI coding agent sessions with cost, token, latency, and failure regression gates.
 * [flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) ⭐ 3 | 🐛 0 | 📅 2026-09-11 🆓 - AI agent skill that detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
 * [Allure TestOps](https://qameta.io/) 💰 - Test management with AI-driven analytics and flaky detection.
@@ -180,7 +180,7 @@ AI for failure analysis, flaky test detection, and reporting.
 
 Tools that use AI to fill coverage gaps and prioritize testing efforts.
 
-* [Stryker Mutator](https://github.com/stryker-mutator/stryker-js) ⭐ 3,160 | 🐛 123 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Mutation testing framework that pairs well with AI test generators.
+* [Stryker Mutator](https://github.com/stryker-mutator/stryker-js) ⭐ 3,163 | 🐛 124 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Mutation testing framework that pairs well with AI test generators.
 * [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) ⭐ 300 | 🐛 2 | 🌐 Python | 📅 2025-04-17 🆓 - LLM-based mutation testing for stronger test suites.
 * [coverage-guard](https://github.com/sametcelikbicak/coverage-guard) ⭐ 3 | 🐛 0 | 📅 2026-09-11 🆓 - AI agent skill that enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
 
@@ -188,7 +188,7 @@ Tools that use AI to fill coverage gaps and prioritize testing efforts.
 
 Tools that use AI to generate realistic test data, fixtures, and edge cases.
 
-* [Faker.js](https://github.com/faker-js/faker) ⭐ 15,504 | 🐛 94 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Standard fake data library, often paired with AI for context-aware data.
+* [Faker.js](https://github.com/faker-js/faker) ⭐ 15,504 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-02 🆓 - Standard fake data library, often paired with AI for context-aware data.
 * [Datafaker](https://github.com/datafaker-net/datafaker) ⭐ 1,800 | 🐛 10 | 🌐 Java | 📅 2026-10-01 🆓 - Java/Kotlin port of Faker for realistic fake data generation in JVM-based test suites.
 * [Snowfakery](https://github.com/SFDO-Tooling/Snowfakery) ⚠️ Archived 🆓 - Relational synthetic data generator from Salesforce, useful for complex schema-aware test fixtures.
 * [Mockaroo](https://www.mockaroo.com/) 🆓💰 - Realistic test data generation with AI-suggested schemas.
@@ -200,9 +200,9 @@ Tools that use AI to generate realistic test data, fixtures, and edge cases.
 
 Tools for mocking external services, LLM APIs, and dependencies in AI testing pipelines.
 
-* [MSW (Mock Service Worker)](https://github.com/mswjs/msw) ⭐ 18,247 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-30 🆓 - API mocking library for browser and Node.js, ideal for frontend AI testing.
-* [Mockoon](https://github.com/mockoon/mockoon) ⭐ 8,431 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-01 🆓 - GUI-based open source API mocking tool, easy to set up.
-* [WireMock](https://github.com/wiremock/wiremock) ⭐ 7,386 | 🐛 497 | 🌐 Java | 📅 2026-09-29 🆓💰 - Industry standard HTTP mocking with 7.1k stars and a native MCP server in the cloud version for AI coding assistants.
+* [MSW (Mock Service Worker)](https://github.com/mswjs/msw) ⭐ 18,249 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-02 🆓 - API mocking library for browser and Node.js, ideal for frontend AI testing.
+* [Mockoon](https://github.com/mockoon/mockoon) ⭐ 8,433 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-02 🆓 - GUI-based open source API mocking tool, easy to set up.
+* [WireMock](https://github.com/wiremock/wiremock) ⭐ 7,387 | 🐛 496 | 🌐 Java | 📅 2026-10-02 🆓💰 - Industry standard HTTP mocking with 7.1k stars and a native MCP server in the cloud version for AI coding assistants.
 * [Hoverfly](https://github.com/SpectoLabs/hoverfly) ⭐ 2,523 | 🐛 35 | 🌐 Go | 📅 2026-09-28 🆓 - Lightweight service virtualization with proxy-based recording and replay.
 * [Mountebank](https://github.com/mountebank-testing/mountebank) ⭐ 2,105 | 🐛 88 | 🌐 JavaScript | 📅 2026-09-29 🆓 - Mature open source service virtualization for HTTP, HTTPS, TCP, and SMTP protocols. Supports stubbing, mock verification, and record-playback.
 * [Pact](https://github.com/pact-foundation/pact-specification) ⭐ 317 | 🐛 44 | 📅 2024-04-11 🆓 - Contract testing framework for microservices and API consumers.
@@ -211,7 +211,7 @@ Tools for mocking external services, LLM APIs, and dependencies in AI testing pi
 
 AI-enhanced performance, load, and chaos testing.
 
-* [k6](https://github.com/grafana/k6) ⭐ 31,748 | 🐛 779 | 🌐 Go | 📅 2026-10-01 🆓💰 - Open-source load testing tool, increasingly paired with AI for scenario generation.
+* [k6](https://github.com/grafana/k6) ⭐ 31,759 | 🐛 780 | 🌐 Go | 📅 2026-10-02 🆓💰 - Open-source load testing tool, increasingly paired with AI for scenario generation.
 * [WebPageTest](https://www.webpagetest.org/) 🆓💰 - Performance testing with AI-suggested optimizations.
 * [LoadView](https://www.loadview-testing.com/) 💰 - Cloud-based load testing with AI-powered insights.
 * [Akamas](https://www.akamas.io/) 💰 - AI-driven performance optimization and tuning.
@@ -220,7 +220,7 @@ AI-enhanced performance, load, and chaos testing.
 
 AI-powered accessibility scanners and remediation tools.
 
-* [Pa11y](https://github.com/pa11y/pa11y) ⭐ 4,566 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-28 🆓 - Open-source automated accessibility testing tool.
+* [Pa11y](https://github.com/pa11y/pa11y) ⭐ 4,568 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-28 🆓 - Open-source automated accessibility testing tool.
 * [Axe DevTools](https://www.deque.com/axe/devtools/) 💰 - AI-powered accessibility scanner from Deque.
 * [Evinced](https://www.evinced.com/) 💰 - AI-driven accessibility testing platform.
 * [UserWay](https://userway.org/) 🆓💰 - AI-powered WCAG compliance scanner.
@@ -229,7 +229,7 @@ AI-powered accessibility scanners and remediation tools.
 
 AI features for API testing, schema generation, and contract validation.
 
-* [Keploy](https://github.com/keploy/keploy) ⭐ 18,522 | 🐛 763 | 🌐 Go | 📅 2026-10-01 🆓 - Generates API tests and mocks from real traffic, with AI assertion generation.
+* [Keploy](https://github.com/keploy/keploy) ⭐ 18,533 | 🐛 762 | 🌐 Go | 📅 2026-10-02 🆓 - Generates API tests and mocks from real traffic, with AI assertion generation.
 * [Stepci](https://github.com/stepci/stepci) ⭐ 1,868 | 🐛 73 | 🌐 TypeScript | 📅 2024-08-03 🆓💰 - API testing framework with AI-suggested assertions.
 * [Postman](https://www.postman.com/) 🆓💰 - AI-assisted API test generation and contract validation with Postbot assistant.
 
@@ -237,12 +237,12 @@ AI features for API testing, schema generation, and contract validation.
 
 Tools to test LLM applications themselves (security, robustness, hallucination).
 
-* [Garak](https://github.com/NVIDIA/garak) ⭐ 9,400 | 🐛 487 | 🌐 Python | 📅 2026-09-16 🆓 - LLM vulnerability scanner from NVIDIA.
-* [Guardrails AI](https://github.com/guardrails-ai/guardrails) ⭐ 7,476 | 🐛 76 | 🌐 Python | 📅 2026-10-01 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,230 | 🐛 256 | 🌐 Python | 📅 2026-10-01 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
-* [Giskard](https://github.com/Giskard-AI/giskard) ⭐ 5,849 | 🐛 77 | 🌐 Python | 📅 2026-10-01 🆓💰 - Testing framework for LLMs and ML models.
+* [Garak](https://github.com/NVIDIA/garak) ⭐ 9,410 | 🐛 484 | 🌐 Python | 📅 2026-10-02 🆓 - LLM vulnerability scanner from NVIDIA.
+* [Guardrails AI](https://github.com/guardrails-ai/guardrails) ⭐ 7,475 | 🐛 76 | 🌐 Python | 📅 2026-10-01 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
+* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,234 | 🐛 258 | 🌐 Python | 📅 2026-10-02 🆓 - Open-source toolkit from NVIDIA for adding programmable guardrails to LLM-based conversational systems, preventing jailbreaks, topic drift, and unsafe outputs.
+* [Giskard](https://github.com/Giskard-AI/giskard) ⭐ 5,853 | 🐛 73 | 🌐 Python | 📅 2026-10-02 🆓💰 - Testing framework for LLMs and ML models.
 * [LLM Guard](https://github.com/protectai/llm-guard) ⚠️ Archived 🆓 - Open source security toolkit from Protect AI with scanners for prompt injection, toxicity, secrets, and data leakage in LLM inputs and outputs.
-* [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 2,980 | 🐛 75 | 🌐 Python | 📅 2026-10-01 🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.
+* [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 2,981 | 🐛 73 | 🌐 Python | 📅 2026-10-01 🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.
 * [LLMFuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 381 | 🐛 3 | 🌐 Python | 📅 2024-02-12 🆓 - Early open-source fuzzing framework for testing LLMs via their API integrations. No longer actively maintained (last commit early 2024) but still referenced in LLM security lists.
 * [PyRIT](https://github.com/Azure/PyRIT) ⚠️ Archived 🆓 - Microsoft's Python Risk Identification Tool for generative AI.
 * [llm-security-scanner](https://github.com/tugkanboz/llm-security-scanner) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-05-02 🆓 - Red-team toolkit with OWASP LLM Top 10 alignment and Turkish payload library.
@@ -255,14 +255,14 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 
 Browser automation libraries designed for or commonly used by AI agents.
 
-* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 116,947 | 🐛 540 | 🌐 Python | 📅 2026-10-01 🆓 - Make websites accessible to AI agents.
-* [Lightpanda](https://github.com/lightpanda-io/browser) ⭐ 35,679 | 🐛 91 | 🌐 Zig | 📅 2026-10-01 🆓 - Headless browser written in Zig, optimized for AI agents and scraping workloads.
-* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,513 | 🐛 377 | 🌐 TypeScript | 📅 2026-10-01 🆓 - AI browser automation with predictable yet flexible APIs.
-* [Skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 23,115 | 🐛 269 | 🌐 Python | 📅 2026-10-01 🆓💰 - Automate browser-based workflows using LLMs and computer vision.
-* [Steel Browser](https://github.com/steel-dev/steel-browser) ⭐ 7,723 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-28 🆓 - Open-source browser API for AI agents.
-* [Patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) ⭐ 4,740 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Patched Playwright for stealth automation.
-* [Notte](https://github.com/nottelabs/notte) ⭐ 2,008 | 🐛 13 | 🌐 Python | 📅 2026-10-01 🆓 - Web agent framework for building fast, cost-efficient AI agents that automate web interactions using natural language instructions, with browser session management, structured data extraction, and anti-detection support.
-* [AgentQL](https://github.com/tinyfish-io/agentql) ⭐ 1,474 | 🐛 15 | 🌐 Python | 📅 2026-10-01 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
+* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 117,005 | 🐛 533 | 🌐 Python | 📅 2026-10-02 🆓 - Make websites accessible to AI agents.
+* [Lightpanda](https://github.com/lightpanda-io/browser) ⭐ 35,792 | 🐛 100 | 🌐 Zig | 📅 2026-10-02 🆓 - Headless browser written in Zig, optimized for AI agents and scraping workloads.
+* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,517 | 🐛 378 | 🌐 TypeScript | 📅 2026-10-02 🆓 - AI browser automation with predictable yet flexible APIs.
+* [Skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 23,126 | 🐛 270 | 🌐 Python | 📅 2026-10-02 🆓💰 - Automate browser-based workflows using LLMs and computer vision.
+* [Steel Browser](https://github.com/steel-dev/steel-browser) ⭐ 7,727 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-28 🆓 - Open-source browser API for AI agents.
+* [Patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) ⭐ 4,744 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 🆓 - Patched Playwright for stealth automation.
+* [Notte](https://github.com/nottelabs/notte) ⭐ 2,010 | 🐛 15 | 🌐 Python | 📅 2026-10-02 🆓 - Web agent framework for building fast, cost-efficient AI agents that automate web interactions using natural language instructions, with browser session management, structured data extraction, and anti-detection support.
+* [AgentQL](https://github.com/tinyfish-io/agentql) ⭐ 1,476 | 🐛 13 | 🌐 Python | 📅 2026-10-02 🆓💰 - Natural language query language for AI agents to interact with and extract structured data from web pages, with self-healing selectors that integrate with Playwright.
 * [Browserbase](https://www.browserbase.com/) 💰 - Cloud browser infrastructure with natural language automation.
 
 ## Articles and Talks
@@ -294,23 +294,23 @@ Learning resources for AI-powered testing.
 
 ## Benchmarks and Datasets
 
-* [SWE-bench](https://github.com/princeton-nlp/SWE-bench) ⭐ 5,948 | 🐛 24 | 🌐 Python | 📅 2026-09-18 - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
-* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,761 | 🐛 79 | 🌐 Python | 📅 2026-02-08 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
-* [HumanEval](https://github.com/openai/human-eval) ⭐ 3,395 | 🐛 45 | 🌐 Python | 📅 2025-01-17 - Evaluating large language models trained on code.
-* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,169 | 🐛 211 | 🌐 Python | 📅 2026-09-14 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
+* [SWE-bench](https://github.com/princeton-nlp/SWE-bench) ⭐ 5,956 | 🐛 24 | 🌐 Python | 📅 2026-09-18 - Benchmark for evaluating LLMs on real software engineering tasks, including test fixes.
+* [AgentBench](https://github.com/THUDM/AgentBench) ⭐ 3,759 | 🐛 79 | 🌐 Python | 📅 2026-02-08 🆓 - ICLR 2024 benchmark for evaluating LLMs as autonomous agents across eight environments including OS, database, web browsing, and game tasks.
+* [HumanEval](https://github.com/openai/human-eval) ⭐ 3,397 | 🐛 45 | 🌐 Python | 📅 2025-01-17 - Evaluating large language models trained on code.
+* [OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,171 | 🐛 212 | 🌐 Python | 📅 2026-09-14 🆓 - NeurIPS 2024 benchmark for evaluating multimodal AI agents on open-ended tasks in real computer environments, supporting VMware, Docker, and AWS virtualization.
 * [HELM](https://github.com/stanford-crfm/helm) ⭐ 2,930 | 🐛 110 | 🌐 Python | 📅 2026-09-01 🆓 - Stanford CRFM's open-source Python framework for holistic, reproducible, and transparent evaluation of LLMs and multimodal models across dozens of scenarios covering accuracy, robustness, efficiency, bias, and safety.
-* [WebArena](https://github.com/web-arena-x/webarena) ⭐ 1,619 | 🐛 104 | 🌐 Python | 📅 2025-11-26 - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
-* [tau-bench](https://github.com/sierra-research/tau-bench) ⭐ 1,453 | 🐛 55 | 🌐 Python | 📅 2026-03-18 - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
+* [WebArena](https://github.com/web-arena-x/webarena) ⭐ 1,620 | 🐛 104 | 🌐 Python | 📅 2025-11-26 - Self-hostable web environment for building and evaluating autonomous agents on realistic, multi-site tasks.
+* [tau-bench](https://github.com/sierra-research/tau-bench) ⭐ 1,454 | 🐛 55 | 🌐 Python | 📅 2026-03-18 - Benchmark for evaluating tool-using language agents through dynamic conversations with simulated users and domain-specific APIs.
 * [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) ⭐ 955 | 🐛 49 | 🌐 Python | 📅 2025-07-16 🆓 - Contamination-free holistic benchmark for evaluating LLM coding abilities that continuously collects problems from LeetCode, AtCoder, and CodeForces, covering code generation, execution, and test output prediction.
 * [StructEval](https://github.com/TIGER-AI-Lab/StructEval) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-14 🆓 - Benchmark for structured-output generation and cross-format conversion across text and renderable formats, with syntax, structural, and visual-fidelity checks.
 * [BenchClaw](https://github.com/Agnuxo1/BenchClaw) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2026-06-05 🆓 - Multi-dimension AI benchmark with 17-judge evaluation tribunal for scientific paper generation. Evaluates IMRaD structure, citation quality, methodological rigor, and reproducibility across 10 dimensions with uncertainty quantification and P2P verification.
 
 ## Related Awesome Lists
 
-* [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,168 | 🐛 146 | 📅 2025-11-28 - General test automation across languages.
-* [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,708 | 🐛 239 | 📅 2025-08-20 - LLM security tools and resources.
+* [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,167 | 🐛 147 | 📅 2025-11-28 - General test automation across languages.
+* [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,708 | 🐛 241 | 📅 2025-08-20 - LLM security tools and resources.
 * [awesome-mutation-testing](https://github.com/theofidry/awesome-mutation-testing) ⭐ 474 | 🐛 2 | 📅 2026-09-25 - Mutation testing resources.
-* [awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) ⭐ 374 | 🐛 51 | 🌐 CSS | 📅 2026-09-29 - General testing tools.
+* [awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) ⭐ 374 | 🐛 52 | 🌐 CSS | 📅 2026-09-29 - General testing tools.
 * [awesome-ai-agent-testing](https://github.com/chaosync-org/awesome-ai-agent-testing) ⭐ 50 | 🐛 20 | 📅 2025-05-28 - Testing AI agents themselves.
 * [awesome-ai-pentest](https://github.com/insidetrust/awesome-ai-pentest) ⭐ 40 | 🐛 2 | 📅 2026-02-20 - AI-assisted penetration testing.
 
@@ -320,4 +320,4 @@ Contributions are welcome. Please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
